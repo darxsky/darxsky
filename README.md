@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Santo</h1>
+<h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">MSc student - Computer Engineering - Software</h3>
 
 - 📚 I'm enrolled **in the 2nd year of MSc in Computer Engineering - Software**
