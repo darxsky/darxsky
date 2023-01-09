@@ -25,5 +25,6 @@
   
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darxsky&show_icons=true&theme=onedark&locale=en" alt="darxsky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darxsky&show_icons=true&theme=onedark&locale=en" alt="darxsky" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=darxsky&show_icons=true&bg_color=22272E&title_color=52E5A3&text_color=3FCFFD&locale=en&hide_border=true" alt="Lorenzo's GitHub Stats" /></p>
 
