@@ -25,5 +25,3 @@
   
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darxsky&show_icons=true&theme=onedark&locale=en" alt="darxsky" /></p>
-
